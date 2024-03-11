@@ -1,0 +1,19 @@
+﻿  GLSLC: [FRAG] 'colorized.frag'
+  colorized.frag:2: warning: '#extension' : extension not supported: GL_KHR_vulkan_glsl
+  GLSLC: [VERT] 'colorized.vert'
+  1 warning generated.
+  GLSLC: [FRAG] 'default.frag'
+  default.frag:2: warning: '#extension' : extension not supported: GL_KHR_vulkan_glsl
+  1 warning generated.
+  GLSLC: [VERT] 'default.vert'
+  GLSLC: [FRAG] 'fragmentDepth.frag'
+  GLSLC: [FRAG] 'meshDensity.frag'
+  meshDensity.frag:2: warning: '#extension' : extension not supported: GL_KHR_vulkan_glsl
+  1 warning generated.
+  GLSLC: [GEOM] 'meshDensity.geom'
+  GLSLC: [VERT] 'meshDensity.vert'
+  GLSLC: [FRAG] 'mipmapVisualize.frag'
+  mipmapVisualize.frag:2: warning: '#extension' : extension not supported: GL_KHR_vulkan_glsl
+  1 warning generated.
+  GLSLC: [FRAG] 'overDraw_overShading.frag'
+  GLSLC: [FRAG] 'partialDerivativesFragmentDepth.frag'

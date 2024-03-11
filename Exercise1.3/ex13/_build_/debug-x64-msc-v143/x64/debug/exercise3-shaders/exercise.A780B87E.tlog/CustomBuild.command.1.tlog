@@ -1,0 +1,6 @@
+^D:\LEEDS\HPG\EXERCISE1.3\EX13\EXERCISE3\SHADERS\TRIANGLE.FRAG
+IF NOT EXIST "D:\leeds\HPG\exercise1.3\ex13\\assets\exercise3\shaders" (mkdir "D:\leeds\HPG\exercise1.3\ex13\\assets\exercise3\shaders")
+"D:\leeds\HPG\exercise1.3\ex13\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "D:\leeds\HPG\exercise1.3\ex13\/assets/exercise3/shaders/triangle.frag.spv" "triangle.frag"
+^D:\LEEDS\HPG\EXERCISE1.3\EX13\EXERCISE3\SHADERS\TRIANGLE.VERT
+IF NOT EXIST "D:\leeds\HPG\exercise1.3\ex13\\assets\exercise3\shaders" (mkdir "D:\leeds\HPG\exercise1.3\ex13\\assets\exercise3\shaders")
+"D:\leeds\HPG\exercise1.3\ex13\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "D:\leeds\HPG\exercise1.3\ex13\/assets/exercise3/shaders/triangle.vert.spv" "triangle.vert"

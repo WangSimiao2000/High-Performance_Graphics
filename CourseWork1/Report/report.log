@@ -1,0 +1,292 @@
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2024.3.3)  7 MAR 2024 22:08
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**report
+(./report.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22> (p:/Program Files/texlive/2023/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(p:/Program Files/texlive/2023/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+) (p:/Program Files/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (p:/Program Files/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (p:/Program Files/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (p:/Program Files/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count189
+\Gm@cntv=\count190
+\c@Gm@tempcnt=\count191
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks17
+) (p:/Program Files/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (p:/Program Files/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+ (p:/Program Files/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (p:/Program Files/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+ (p:/Program Files/texlive/2023/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+) (p:/Program Files/texlive/2023/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count192
+\lst@gtempboxa=\box51
+\lst@token=\toks18
+\lst@length=\count193
+\lst@currlwidth=\dimen151
+\lst@column=\count194
+\lst@pos=\count195
+\lst@lostspace=\dimen152
+\lst@width=\dimen153
+\lst@newlines=\count196
+\lst@lineno=\count197
+\lst@maxwidth=\dimen154
+ (p:/Program Files/texlive/2023/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+\c@lstnumber=\count198
+\lst@skipnumbers=\count199
+\lst@framebox=\box52
+) (p:/Program Files/texlive/2023/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2023/02/27 1.9 listings configuration
+))
+Package: listings 2023/02/27 1.9 (Carsten Heinz)
+ (p:/Program Files/texlive/2023/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip50
+\subfigcapskip=\skip51
+\subfigcaptopadj=\dimen155
+\subfigbottomskip=\skip52
+\subfigcapmargin=\dimen156
+\subfiglabelskip=\skip53
+\c@subfigure=\count266
+\c@lofdepth=\count267
+\c@subtable=\count268
+\c@lotdepth=\count269
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(p:/Program Files/texlive/2023/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip54
+\subfig@bottom=\skip55
+) (p:/Program Files/texlive/2023/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (p:/Program Files/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+ (p:/Program Files/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Package option `usenames' ignored on input line 218.
+Package xcolor Info: Driver file: xetex.def on input line 227.
+ (p:/Program Files/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+ (p:/Program Files/texlive/2023/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)) (p:/Program Files/texlive/2023/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+) (p:/Program Files/texlive/2023/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2023/02/27 1.9 listings language file
+) (p:/Program Files/texlive/2023/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
+) (p:/Program Files/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2023-01-16 L3 backend support: XeTeX
+\g__graphics_track_int=\count270
+\l__pdf_internal_box=\box53
+\g__pdf_backend_object_int=\count271
+\g__pdf_backend_annotation_int=\count272
+\g__pdf_backend_link_int=\count273
+) (./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 39.
+ (p:/Program Files/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count274
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 41.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 41.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 41.
+
+Overfull \hbox (148.10956pt too wide) in paragraph at lines 100--101
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[1
+
+]
+File: ./figure//1.2.png Graphic file (type bmp)
+<./figure//1.2.png>
+ [2]
+File: ./figure//1.3_ON.png Graphic file (type bmp)
+<./figure//1.3_ON.png>
+File: ./figure//1.3_OFF.png Graphic file (type bmp)
+<./figure//1.3_OFF.png>
+ [3]
+Missing character: There is no 推 (U+63A8) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 理 (U+7406) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 得 (U+5F97) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 窗 (U+7A97) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 口 (U+53E3) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 (U+7684) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 大 (U+5927) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 小 (U+5C0F) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 与 (U+4E0E) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 显 (U+663E) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 示 (U+793A) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 (U+7684) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 分 (U+5206) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 辨 (U+8FA8) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 率 (U+7387) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 有 (U+6709) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 关 (U+5173) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 窗 (U+7A97) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 口 (U+53E3) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 越 (U+8D8A) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 小 (U+5C0F) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 实 (U+5B9E) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 际 (U+9645) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 分 (U+5206) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 辨 (U+8FA8) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 率 (U+7387) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 就 (U+5C31) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 不 (U+4E0D) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 需 (U+9700) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 要 (U+8981) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 太 (U+592A) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 高 (U+9AD8) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 所 (U+6240) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 以 (U+4EE5) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 就 (U+5C31) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 用 (U+7528) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 高 (U+9AD8) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 的 (U+7684) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 就 (U+5C31) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 足 (U+8DB3) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 够 (U+591F) in font [lmroman10-regular]:mapping=tex-text;!
+Missing character: There is no 了 (U+4E86) in font [lmroman10-regular]:mapping=tex-text;!
+File: ./figure//1.4_mipmapLevels_default.png Graphic file (type bmp)
+<./figure//1.4_mipmapLevels_default.png>
+File: ./figure//1.4_mipmapLevels_mini.png Graphic file (type bmp)
+<./figure//1.4_mipmapLevels_mini.png>
+File: ./figure//1.4_mipmapLevels_blowup.png Graphic file (type bmp)
+<./figure//1.4_mipmapLevels_blowup.png>
+File: ./figure//1.4_mipmapLevels_LINEAR.png Graphic file (type bmp)
+<./figure//1.4_mipmapLevels_LINEAR.png>
+File: ./figure//1.4_mipmapLevels_NEAREST.png Graphic file (type bmp)
+<./figure//1.4_mipmapLevels_NEAREST.png>
+[4]
+File: ./figure//1.4_depthcolor.png Graphic file (type bmp)
+<./figure//1.4_depthcolor.png>
+File: ./figure//1.4_partialDerivativesFragmentDepth.png Graphic file (type bmp)
+<./figure//1.4_partialDerivativesFragmentDepth.png>
+ [5]
+File: ./figure//1.5_overDraw.png Graphic file (type bmp)
+<./figure//1.5_overDraw.png>
+File: ./figure//1.5_overShading.png Graphic file (type bmp)
+<./figure//1.5_overShading.png>
+ [6] [7]
+File: ./figure//1.6_meshdensity_smile.png Graphic file (type bmp)
+<./figure//1.6_meshdensity_smile.png>
+ [8] (./report.aux) ) 
+Here is how much of TeX's memory you used:
+ 4242 strings out of 476683
+ 69806 string characters out of 5801402
+ 1992012 words of memory out of 5000000
+ 24451 multiletter control sequences out of 15000+600000
+ 515111 words of font info for 52 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 55i,6n,62p,822b,880s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on report.pdf (8 pages).

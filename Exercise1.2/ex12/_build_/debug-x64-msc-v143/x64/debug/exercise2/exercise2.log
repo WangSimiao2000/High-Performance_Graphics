@@ -1,0 +1,7 @@
+﻿  main.cpp
+F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.2\ex12\exercise2\main.cpp(1,1): warning C4828: 文件包含在偏移 0x146a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.2\ex12\exercise2\main.cpp(1,1): warning C4828: 文件包含在偏移 0x172a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.2\ex12\exercise2\main.cpp(1,1): warning C4828: 文件包含在偏移 0x172b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.2\ex12\exercise2\main.cpp(1,1): warning C4828: 文件包含在偏移 0x172f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.2\ex12\exercise2\main.cpp(1,1): warning C4828: 文件包含在偏移 0x1730 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  exercise2.vcxproj -> F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.2\ex12\bin\exercise2-debug-x64-msc-v143.exe

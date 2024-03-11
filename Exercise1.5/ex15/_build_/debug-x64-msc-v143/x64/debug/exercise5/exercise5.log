@@ -1,0 +1,4 @@
+﻿  main.cpp
+F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\exercise5\main.cpp(572,42): warning C4244: “初始化”: 从“uint32_t”转换到“float”，可能丢失数据
+F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\exercise5\main.cpp(572,22): warning C4244: “初始化”: 从“uint32_t”转换到“const float”，可能丢失数据
+  exercise5.vcxproj -> F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\bin\exercise5-debug-x64-msc-v143.exe

@@ -1,0 +1,24 @@
+^E:\COURSEWORK\24 SPRING\VULKAN-EX\EX14\EXERCISE4\SHADERS\SHADER2D.FRAG
+IF NOT EXIST "E:\coursework\24 spring\vulkan-ex\ex14\\assets\exercise4\shaders" (mkdir "E:\coursework\24 spring\vulkan-ex\ex14\\assets\exercise4\shaders")
+"E:\coursework\24 spring\vulkan-ex\ex14\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "E:\coursework\24 spring\vulkan-ex\ex14\/assets/exercise4/shaders/shader2d.frag.spv" "shader2d.frag"
+^E:\COURSEWORK\24 SPRING\VULKAN-EX\EX14\EXERCISE4\SHADERS\SHADER2D.VERT
+IF NOT EXIST "E:\coursework\24 spring\vulkan-ex\ex14\\assets\exercise4\shaders" (mkdir "E:\coursework\24 spring\vulkan-ex\ex14\\assets\exercise4\shaders")
+"E:\coursework\24 spring\vulkan-ex\ex14\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "E:\coursework\24 spring\vulkan-ex\ex14\/assets/exercise4/shaders/shader2d.vert.spv" "shader2d.vert"
+^E:\COURSEWORK\24 SPRING\VULKAN-EX\EX14\EXERCISE4\SHADERS\SHADER3D.FRAG
+IF NOT EXIST "E:\coursework\24 spring\vulkan-ex\ex14\\assets\exercise4\shaders" (mkdir "E:\coursework\24 spring\vulkan-ex\ex14\\assets\exercise4\shaders")
+"E:\coursework\24 spring\vulkan-ex\ex14\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "E:\coursework\24 spring\vulkan-ex\ex14\/assets/exercise4/shaders/shader3d.frag.spv" "shader3d.frag"
+^E:\COURSEWORK\24 SPRING\VULKAN-EX\EX14\EXERCISE4\SHADERS\SHADER3D.VERT
+IF NOT EXIST "E:\coursework\24 spring\vulkan-ex\ex14\\assets\exercise4\shaders" (mkdir "E:\coursework\24 spring\vulkan-ex\ex14\\assets\exercise4\shaders")
+"E:\coursework\24 spring\vulkan-ex\ex14\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "E:\coursework\24 spring\vulkan-ex\ex14\/assets/exercise4/shaders/shader3d.vert.spv" "shader3d.vert"
+^E:\COURSEWORK\24 SPRING\VULKAN-EX\EX14\EXERCISE4\SHADERS\SHADERTEX.FRAG
+IF NOT EXIST "E:\coursework\24 spring\vulkan-ex\ex14\\assets\exercise4\shaders" (mkdir "E:\coursework\24 spring\vulkan-ex\ex14\\assets\exercise4\shaders")
+"E:\coursework\24 spring\vulkan-ex\ex14\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "E:\coursework\24 spring\vulkan-ex\ex14\/assets/exercise4/shaders/shaderTex.frag.spv" "shaderTex.frag"
+^E:\COURSEWORK\24 SPRING\VULKAN-EX\EX14\EXERCISE4\SHADERS\SHADERTEX.VERT
+IF NOT EXIST "E:\coursework\24 spring\vulkan-ex\ex14\\assets\exercise4\shaders" (mkdir "E:\coursework\24 spring\vulkan-ex\ex14\\assets\exercise4\shaders")
+"E:\coursework\24 spring\vulkan-ex\ex14\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "E:\coursework\24 spring\vulkan-ex\ex14\/assets/exercise4/shaders/shaderTex.vert.spv" "shaderTex.vert"
+^E:\COURSEWORK\24 SPRING\VULKAN-EX\EX14\EXERCISE4\SHADERS\TRIANGLE.FRAG
+IF NOT EXIST "E:\coursework\24 spring\vulkan-ex\ex14\\assets\exercise4\shaders" (mkdir "E:\coursework\24 spring\vulkan-ex\ex14\\assets\exercise4\shaders")
+"E:\coursework\24 spring\vulkan-ex\ex14\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "E:\coursework\24 spring\vulkan-ex\ex14\/assets/exercise4/shaders/triangle.frag.spv" "triangle.frag"
+^E:\COURSEWORK\24 SPRING\VULKAN-EX\EX14\EXERCISE4\SHADERS\TRIANGLE.VERT
+IF NOT EXIST "E:\coursework\24 spring\vulkan-ex\ex14\\assets\exercise4\shaders" (mkdir "E:\coursework\24 spring\vulkan-ex\ex14\\assets\exercise4\shaders")
+"E:\coursework\24 spring\vulkan-ex\ex14\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "E:\coursework\24 spring\vulkan-ex\ex14\/assets/exercise4/shaders/triangle.vert.spv" "triangle.vert"

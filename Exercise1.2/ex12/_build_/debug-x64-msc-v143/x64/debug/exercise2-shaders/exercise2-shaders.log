@@ -1,0 +1,4 @@
+﻿  GLSLC: [FRAG] 'triangle.frag'
+  GLSLC: [VERT] 'triangle.vert'
+  triangle.vert:2: warning: '#extension' : extension not supported: GL_KHR_vulkan_glsl
+  1 warning generated.

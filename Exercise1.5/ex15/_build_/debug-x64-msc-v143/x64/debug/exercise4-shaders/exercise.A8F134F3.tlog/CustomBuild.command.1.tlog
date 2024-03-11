@@ -1,0 +1,24 @@
+^F:\CURRICULUM\MASTER\COMP5822M_HIGH-PERFORMANCE_GRAPHICS\EXERCISE1.5\EX15\EXERCISE4\SHADERS\SHADER2D.FRAG
+IF NOT EXIST "F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\\assets\exercise4\shaders" (mkdir "F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\\assets\exercise4\shaders")
+"F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\/assets/exercise4/shaders/shader2d.frag.spv" "shader2d.frag"
+^F:\CURRICULUM\MASTER\COMP5822M_HIGH-PERFORMANCE_GRAPHICS\EXERCISE1.5\EX15\EXERCISE4\SHADERS\SHADER2D.VERT
+IF NOT EXIST "F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\\assets\exercise4\shaders" (mkdir "F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\\assets\exercise4\shaders")
+"F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\/assets/exercise4/shaders/shader2d.vert.spv" "shader2d.vert"
+^F:\CURRICULUM\MASTER\COMP5822M_HIGH-PERFORMANCE_GRAPHICS\EXERCISE1.5\EX15\EXERCISE4\SHADERS\SHADER3D.FRAG
+IF NOT EXIST "F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\\assets\exercise4\shaders" (mkdir "F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\\assets\exercise4\shaders")
+"F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\/assets/exercise4/shaders/shader3d.frag.spv" "shader3d.frag"
+^F:\CURRICULUM\MASTER\COMP5822M_HIGH-PERFORMANCE_GRAPHICS\EXERCISE1.5\EX15\EXERCISE4\SHADERS\SHADER3D.VERT
+IF NOT EXIST "F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\\assets\exercise4\shaders" (mkdir "F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\\assets\exercise4\shaders")
+"F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\/assets/exercise4/shaders/shader3d.vert.spv" "shader3d.vert"
+^F:\CURRICULUM\MASTER\COMP5822M_HIGH-PERFORMANCE_GRAPHICS\EXERCISE1.5\EX15\EXERCISE4\SHADERS\SHADERTEX.FRAG
+IF NOT EXIST "F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\\assets\exercise4\shaders" (mkdir "F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\\assets\exercise4\shaders")
+"F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\/assets/exercise4/shaders/shaderTex.frag.spv" "shaderTex.frag"
+^F:\CURRICULUM\MASTER\COMP5822M_HIGH-PERFORMANCE_GRAPHICS\EXERCISE1.5\EX15\EXERCISE4\SHADERS\SHADERTEX.VERT
+IF NOT EXIST "F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\\assets\exercise4\shaders" (mkdir "F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\\assets\exercise4\shaders")
+"F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\/assets/exercise4/shaders/shaderTex.vert.spv" "shaderTex.vert"
+^F:\CURRICULUM\MASTER\COMP5822M_HIGH-PERFORMANCE_GRAPHICS\EXERCISE1.5\EX15\EXERCISE4\SHADERS\TRIANGLE.FRAG
+IF NOT EXIST "F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\\assets\exercise4\shaders" (mkdir "F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\\assets\exercise4\shaders")
+"F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\/assets/exercise4/shaders/triangle.frag.spv" "triangle.frag"
+^F:\CURRICULUM\MASTER\COMP5822M_HIGH-PERFORMANCE_GRAPHICS\EXERCISE1.5\EX15\EXERCISE4\SHADERS\TRIANGLE.VERT
+IF NOT EXIST "F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\\assets\exercise4\shaders" (mkdir "F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\\assets\exercise4\shaders")
+"F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\/third_party/shaderc/win-x86_64/glslc.exe" -O  -o "F:\Curriculum\Master\COMP5822M_High-Performance_Graphics\Exercise1.5\ex15\/assets/exercise4/shaders/triangle.vert.spv" "triangle.vert"
